@@ -2,3 +2,4 @@ Oi
 
 Adicionando um novo texto
 	o Bruno Bortolli é irmão da Isabelle Bortolli;
+	E filho do Marco Aurelio Bortolli;
